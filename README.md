@@ -1,3 +1,6 @@
+## Power Bi Report Link
+https://app.powerbi.com/view?r=eyJrIjoiZWU1MWE3ZjgtMTQ3MS00YzVjLWJlNjktNmYxNzFlNWMzZGNkIiwidCI6IjNiYzVlMTBjLTYzMzgtNGVhMS04ZDI3LWUzYjViNjA4MDQzYSIsImMiOjEwfQ%3D%3D
+
 ## Dataset & Icon Attribution  
 
 - **Dataset:**  
